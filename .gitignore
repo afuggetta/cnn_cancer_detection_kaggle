@@ -1,0 +1,7 @@
+train/
+test/
+kt/
+CNN_cancer_kaggle_files/
+*.keras
+train_labels.csv
+sample_submission.csv
